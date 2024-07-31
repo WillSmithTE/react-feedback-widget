@@ -36,6 +36,14 @@ export default App;
 | -------- | -------- | ------- | --------------------------------------------------- |
 | onSubmit | function | -       | Callback function called when feedback is submitted |
 
+## Dev
+
+Need to link React, or get invalid hook call error.
+
+```bash
+npm link ../appname/node_modules/react
+```
+
 ## License
 
 MIT
